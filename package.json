@@ -1,0 +1,19 @@
+{
+  "name": "gulp-starter",
+  "version": "1.0.0",
+  "description": "archivos starter con gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisk182/gulp-starter.git"
+  },
+  "author": "Carlos Corpus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisk182/gulp-starter/issues"
+  },
+  "homepage": "https://github.com/luisk182/gulp-starter#readme"
+}
