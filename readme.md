@@ -1,5 +1,5 @@
-## It works with gulp 4 +
-## Funciona con gulp 4 +
+## Updated for gulp 4 +
+## Actualizado para gulp 4 +
 
 1. cd gulp-starter
 
