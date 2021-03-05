@@ -23,7 +23,7 @@
     "gulp-sass": "^4.0.2"
   },
   "devDependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "gulp-browserify": "^0.5.1",
     "gulp-concat": "^2.6.1",
     "jquery": "^3.5.0",
